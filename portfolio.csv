@@ -1,0 +1,4 @@
+asset_type,ticker,shares,cost_basis
+stock,HOOD,200,11.48
+crypto,BTC,20,1000
+cd,BankOfNY,30000,1
