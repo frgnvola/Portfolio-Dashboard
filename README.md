@@ -10,6 +10,11 @@ Use the buttons in the top right corner to sort the portfolio by gains/loss, or 
 - Highly concentrated positions
 - Analyst/Quant consensus (from yahoo finance data)
 
+
+This is what the main portfolio dashboard will look like when loaded. Blurred for obvious reasons!
+
 <img width="1000" alt="stockbot_ex" src="https://github.com/frgnvola/Portfolio-Visualizer-/blob/main/MainDashboard.png">
+
+Clicking on "View Insights & Recommendations" will load the insights dashboard, which looks like:
 
 <img width="1000" alt="stockbot_ex" src="https://github.com/frgnvola/Portfolio-Visualizer-/blob/main/Insights%26Decisions.png">
